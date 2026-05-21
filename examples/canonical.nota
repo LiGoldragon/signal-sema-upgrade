@@ -1,0 +1,7 @@
+(Inspect All)
+(Inspect (Component persona-spirit))
+(AttemptUpgrade (persona-spirit (0 1 0) (0 1 1)))
+(Report (Component persona-spirit))
+(InspectionReported ([(persona-spirit (0 1 0) (0 1 1) persona-spirit-0-1-0-to-0-1-1)]))
+(UpgradeCompleted (persona-spirit (0 1 0) (0 1 1) persona-spirit-0-1-0-to-0-1-1 0))
+(UpgradeRejected (persona-spirit (0 1 0) (0 1 2) UnsupportedMigration))
